@@ -1,15 +1,22 @@
-
 function AutoCard({ auto }) {
   return (
-    <div style={{ border: "1px solid #ccc", padding: "10px", margin: "10px 0" }}>
-      <h2>{auto.marca} {auto.modelo}</h2>
-      <p>Tipo: {auto.tipo}</p>
-      <p>Año: {auto.año}</p>
-    </div>
+    <li className="card">
+      <div className="image-container">
+        <img
+          src={auto.image ? auto.image : "src/assets/image-not-found.png"}
+          alt=""
+        />
+      </div>
+
+      <div className="content">
+        <p className="title">
+          {auto.marca} {auto.modelo}
+        </p>
+        <p>Tipo: {auto.tipo}</p>
+        <p>Año: {auto.año}</p>
+      </div>
+    </li>
   );
 }
 
 export default AutoCard;
-
-
-
