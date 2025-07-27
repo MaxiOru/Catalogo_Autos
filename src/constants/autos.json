@@ -12,62 +12,71 @@
       "marca":"Ford",
       "modelo":"Fiesta",
       "tipo":"Hatchback",
-      "año":2018
+      "año":2018,
+      "image": "src/assets/ford-fiesta-hatchback.jpg"
    },
    {
       "id":3,
       "marca":"Chevrolet",
       "modelo":"Onix",
       "tipo":"Hatchback",
-      "año":2021
+      "año":2021,
+      "image": "src/assets/chevrolet-onix-hatchback.jpg"
    },
    {
       "id":4,
       "marca":"Volkswagen",
       "modelo":"Gol",
       "tipo":"Hatchback",
-      "año":2017
+      "año":2017,
+      "image": "src/assets/volkswagen-gol-hatchback.jpg"
    },
    {
       "id":5,
       "marca":"Renault",
       "modelo":"Kwid",
       "tipo":"SUV",
-      "año":2022
+      "año":2022,
+      "image": "src/assets/renault-kwid-suv.jpg"
    },
    {
       "id":6,
       "marca":"Honda",
       "modelo":"Civic",
       "tipo":"Sedán",
-      "año":2020
+      "año":2020,
+      "image": "src/assets/honda-civic-sedan.jpg"
    },
    {
       "id":7,
       "marca":"Peugeot",
       "modelo":"208",
       "tipo":"Hatchback",
-      "año":2021
+      "año":2021,
+      "image": "src/assets/peugeot-208-hatchback.jpg"
    },
    {
       "id":8,
       "marca":"Fiat",
       "modelo":"Cronos",
       "tipo":"Sedán",
-      "año":2019
+      "año":2019,
+      "image": "src/assets/fiat-cronos-sedan.jpg"
    },
    {
       "id":9,
       "marca":"Jeep",
       "modelo":"Renegade",
       "tipo":"SUV",
-      "año":2023
+      "año":2023,
+      "image": "src/assets/jeep-renegade-suv.jpg"
    },
    {
       "id":10,
       "marca":"Nissan",
       "modelo":"Versa",
       "tipo":"Sedán",
-      "año":2018
+      "año":2018,
+      "image": "src/assets/nissan-versa-sedan.jpg"
    }
 ]
