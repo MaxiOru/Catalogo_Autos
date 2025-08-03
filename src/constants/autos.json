@@ -5,7 +5,7 @@
       "modelo":"Corolla",
       "tipo":"Sedán",
       "año":2020,
-      "image": "src/assets/toyota-corrolla-sedan.jpg"
+      "image": "assets/toyota-corrolla-sedan.jpg"
    },
    {
       "id":2,
@@ -13,7 +13,7 @@
       "modelo":"Fiesta",
       "tipo":"Hatchback",
       "año":2018,
-      "image": "src/assets/ford-fiesta-hatchback.jpg"
+      "image": "assets/ford-fiesta-hatchback.jpg"
    },
    {
       "id":3,
@@ -21,7 +21,7 @@
       "modelo":"Onix",
       "tipo":"Hatchback",
       "año":2021,
-      "image": "src/assets/chevrolet-onix-hatchback.jpg"
+      "image": "assets/chevrolet-onix-hatchback.jpg"
    },
    {
       "id":4,
@@ -29,7 +29,7 @@
       "modelo":"Gol",
       "tipo":"Hatchback",
       "año":2017,
-      "image": "src/assets/volkswagen-gol-hatchback.jpg"
+      "image": "assets/volkswagen-gol-hatchback.jpg"
    },
    {
       "id":5,
@@ -37,7 +37,7 @@
       "modelo":"Kwid",
       "tipo":"SUV",
       "año":2022,
-      "image": "src/assets/renault-kwid-suv.jpg"
+      "image": "assets/renault-kwid-suv.jpg"
    },
    {
       "id":6,
@@ -45,7 +45,7 @@
       "modelo":"Civic",
       "tipo":"Sedán",
       "año":2020,
-      "image": "src/assets/honda-civic-sedan.jpg"
+      "image": "assets/honda-civic-sedan.jpg"
    },
    {
       "id":7,
@@ -53,7 +53,7 @@
       "modelo":"208",
       "tipo":"Hatchback",
       "año":2021,
-      "image": "src/assets/peugeot-208-hatchback.jpg"
+      "image": "assets/peugeot-208-hatchback.jpg"
    },
    {
       "id":8,
@@ -61,7 +61,7 @@
       "modelo":"Cronos",
       "tipo":"Sedán",
       "año":2019,
-      "image": "src/assets/fiat-cronos-sedan.jpg"
+      "image": "assets/fiat-cronos-sedan.jpg"
    },
    {
       "id":9,
@@ -69,7 +69,7 @@
       "modelo":"Renegade",
       "tipo":"SUV",
       "año":2023,
-      "image": "src/assets/jeep-renegade-suv.jpg"
+      "image": "assets/jeep-renegade-suv.jpg"
    },
    {
       "id":10,
@@ -77,6 +77,6 @@
       "modelo":"Versa",
       "tipo":"Sedán",
       "año":2018,
-      "image": "src/assets/nissan-versa-sedan.jpg"
+      "image": "assets/nissan-versa-sedan.jpg"
    }
 ]
